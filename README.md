@@ -13,4 +13,6 @@ A quantitative tool for comparing potential partners using weighted criteria and
 1. **Install Dependencies:**
    ```bash
    npm install
+```bash
+
    npm run dev
