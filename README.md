@@ -1,6 +1,6 @@
 # Candidate Evaluation Algorithm
 
-A quantitative tool for comparing potential partners using weighted criteria and multi-dimensional scoring metrics.
+A simple candidate comparison tool using weighted variables.
 
 ## Features
 
@@ -8,11 +8,15 @@ A quantitative tool for comparing potential partners using weighted criteria and
 - Add candidates with ratings for each subcategory.
 - Compare candidates with a dynamic scoring system.
 
-## Getting Started
+## Use the Hosted Version
+
+[Candidate Evaluation Algorithm](https://67c061b5ee9d7606fcf2a4f0--algomatch.netlify.app/)
+
+## Getting Started Locally
 
 1. **Install Dependencies:**
    ```bash
    npm install
-```bash
-
+2. **Run Locally:**
+   ```bash
    npm run dev
